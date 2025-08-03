@@ -47,7 +47,7 @@ Make sure the CSV is in the same directory as your code, or update the file path
 🎓 B.Sc. (Hons.) Computer Science & Data Analytics (Graduating 2026)  
 📬 Email: subhash_2312res664@iitp.ac.in  
 📞 Contact: +91 62997 42348  
-🔗 LinkedIn / GitHub: _[Add link if available]_
+🔗 LinkedIn / GitHub: _[https://github.com/subhash2312res664]_
 
 I'm passionate about data, coding, and solving real-world problems with analytics.  
 Feel free to connect for collaboration or project ideas!
