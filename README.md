@@ -49,6 +49,15 @@ The project uses a sample **YouTube Channel CSV dataset** (`youtube_channel_data
 Make sure the CSV is in the same directory as your code, or update the file path accordingly.
 
 ---
+## 📌 Project Files Overview
+
+| File | Type | Description |
+|------|------|-------------|
+| [`main.py`](./main.py) | 🚀 Launcher | Entry point that imports and executes functions from `YTDA.py` |
+| [`YTDA.py`](./YTDSF.py) | 📊 Core Logic | Contains full code for data loading, cleaning, analysis & visualizations (Line, Bar, Pie) |
+| [`Notebook.ipynb`](./YTDashboard.ipynb) | 📓 Jupyter Notebook | Combines both files with markdown + code cells for interactive exploration |
+
+---
 
 ## 🧠 About Me
 
