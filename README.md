@@ -1,5 +1,14 @@
 # 📊 YouTube Channel Analytics Dashboard
 
+---
+<p align="center">
+  <img src="Line_Vieovtime.avif" width="250" alt="Line Graph" />
+  <img src="Bar_VidndViews.avif" width="250" alt="Bar Graph" />
+  <img src="Pi_Eng.avif" width="250" alt="Pie Chart" />
+</p>
+
+---
+
 This project is part of **Project-1** submitted by **Subhash Kumar Rana**  
 for the **90-Day Internship Program** by **GUVI (HCL)**.
 
